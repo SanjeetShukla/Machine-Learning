@@ -30,3 +30,6 @@ csv.field_size_limit
 
 ## Data Rule 3
 Accurately predicting rare event is difficult.
+
+## Data Rule 4
+Track how you manipulate data.
