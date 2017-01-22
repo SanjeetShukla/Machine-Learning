@@ -8,3 +8,7 @@ But we don't have that field always, In that case we will have to infer it by co
 
 ## Data Rule 2
 Data will never be in the format we need.
+
+Loading Data
+Exploring Data
+Cleaning Data
